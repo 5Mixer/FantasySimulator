@@ -1,0 +1,10 @@
+{
+	"name": "Bread",
+	"tags": ["edible", "consumable"],
+	"attributes": {
+		"food": {
+			"hungerRestoration": 10
+		},
+		"weight": 0.3
+	}
+},

@@ -1,0 +1,11 @@
+{
+	"name": "Dagger",
+	"tags": ["weapon"],
+	"attributes": {
+		"weapon": {
+			"damage": 10,
+			"poison": null
+		}
+	},
+	"weight": 0.3
+}

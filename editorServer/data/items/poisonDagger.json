@@ -1,0 +1,14 @@
+{
+	"name": "Poison Dagger",
+	"tags": ["weapon", "rare"],
+	"attributes": {
+		"weapon": {
+			"damage": 10,
+			"poison": {
+				"duration": 10,
+				"damage": 5
+			}
+		},
+		"weight": 0.3
+	}
+}

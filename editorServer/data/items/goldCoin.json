@@ -1,0 +1,11 @@
+{
+	"name": "Gold coin",
+	"tags": ["currency"],
+	"attributes": {
+		"currency": {
+			"equivalentValue": 1
+		},
+		"weight": 0.01
+	}
+}
+

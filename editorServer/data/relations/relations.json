@@ -1,0 +1,13 @@
+{
+	"relations": [
+		{
+			"a": "groups/consumable",
+			"b": "groups/people",
+			"action": [
+				"eat(a,b)"
+			],
+			"trigger": "((meal time) or (b.hunger > .5)) and (!b.food.full)"
+		}
+	]
+}
+
