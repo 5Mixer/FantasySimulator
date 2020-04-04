@@ -16,8 +16,6 @@ class Trade {
 		members.push(member);
 	}
 	public function update () {
-		Sys.println('  -- Trade system log -- ');
-
 		var forSale = new Map<Item, Array<Trader>>();
 		for (trader in members) {
 			for (selling in trader.selling.contents.keys()){

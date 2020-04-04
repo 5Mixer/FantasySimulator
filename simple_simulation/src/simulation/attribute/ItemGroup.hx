@@ -4,10 +4,6 @@ import simulation.item.Item;
 import simulation.item.ItemStack;
 import haxe.ds.Either;
 
-enum ItemGroupEvent {
-	ContentsChanged;
-}
-
 class ItemGroup {
 	public var contents:Map<Item, Int>;
 	public var inventoryChangeEvent = new Array<Void->Void>();
