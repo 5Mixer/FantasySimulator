@@ -1,0 +1,13 @@
+<items>
+	<bread>
+		<name>Bread</name>
+		<attributes>
+			<food>
+				10
+			</food>
+			<value>
+				10
+			</value>
+		</attributes>
+	</bread>
+</items>
