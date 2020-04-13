@@ -8,4 +8,7 @@ class ItemStack {
 		this.item = item;
 		this.quantity = quantity;
 	}
+	public function toString() {
+		return 'ItemStack[${quantity} $item]';
+	}
 }

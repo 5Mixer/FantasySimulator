@@ -21,7 +21,7 @@ class ItemGroup {
 		for (listener in inventoryChangeEvent)
 			listener();
 
-		return true;
+		return this;
 	}
 
 	public function addStack (itemStack:ItemStack) {

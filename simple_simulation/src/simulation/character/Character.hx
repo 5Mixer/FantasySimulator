@@ -9,4 +9,7 @@ class Character {
 	public function new () {
 
 	}
+	public function update () {
+
+	}
 }
